@@ -1,0 +1,3 @@
+Hello, hello, esta es la línea 1 del text2
+Esta es la línea 2 del text2
+Y esta es la última línea del text2
